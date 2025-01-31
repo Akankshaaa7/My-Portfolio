@@ -10,7 +10,8 @@ import ContactMe from './Components/ContactMe';
 
 function App() {
   return (
-    <Router>
+    // Set the basename to your repository name
+    <Router basename="/My-Portfolio">
       <div className="App">
         {/* Navbar - logo and menu */}
         <Navbar />
