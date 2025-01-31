@@ -14,7 +14,7 @@ function Projects() {
       {/* Project 1: BBC News Categorization */}
       <div className="project-card">
         <img 
-          src="/assets/images/News classification.jpg" // Corrected path
+          src="/assets/images/News%20classification.jpg" 
           alt="BBC News Classification"
           className="project-image"
         />
@@ -27,7 +27,7 @@ function Projects() {
       {/* Project 2: Diabetes Disease Prediction */}
       <div className="project-card">
         <img 
-          src="/assets/images/Diabetics prediction.jpeg" 
+          src="/assets/images/Diabetics%20prediction.png"  
           alt="Diabetes Prediction"
           className="project-image"
         />
@@ -40,7 +40,7 @@ function Projects() {
       {/* Project 3: Stock Price Prediction */}
       <div className="project-card">
         <img 
-          src="/assets/images/Stock prediction.jpg" 
+          src="/assets/images/Stock%20prediction.jpg" 
           alt="Stock Price Prediction"
           className="project-image"
         />

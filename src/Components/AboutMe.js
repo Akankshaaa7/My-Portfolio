@@ -6,7 +6,7 @@ function AboutMe() {
     <div className="page-container">
       <h1>About Me</h1>
       
-     
+      {/* Profile Photo */}
       <img 
         src="/assets/images/photo.JPG" 
         alt="Akanksha Gurram" 
