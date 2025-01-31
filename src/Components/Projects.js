@@ -1,5 +1,5 @@
 // File: src/Components/Projects.js
-// Author: Akanksha Gurram
+// Name: Akanksha Gurram
 // Student ID: 301453510
 // Date: 2025-01-30
 
