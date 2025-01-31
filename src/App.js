@@ -1,4 +1,7 @@
-// src/App.js
+// File: src/App.js
+// Author: Akanksha Gurram
+// Student ID: 301453510
+// Date: 2025-01-30
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './Components/Navbar';
@@ -10,7 +13,7 @@ import ContactMe from './Components/ContactMe';
 
 function App() {
   return (
-    // Set the basename to your repository name
+    
     <Router basename="/My-Portfolio">
       <div className="App">
         {/* Navbar - logo and menu */}

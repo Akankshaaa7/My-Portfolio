@@ -1,4 +1,7 @@
-// src/Components/Home.js
+// File: src/Components/Home.js
+// Author: Akanksha Gurram
+// Student ID: 301453510
+// Date: 2025-01-30
 import React from 'react';
 import { Link } from 'react-router-dom'; // Import Link for navigation
 import '../App.css'; // Import the CSS for styling

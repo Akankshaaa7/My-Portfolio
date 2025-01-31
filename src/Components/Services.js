@@ -1,5 +1,9 @@
+// File: src/Components/Services.js
+// Author: Akanksha Gurram
+// Student ID: 301453510
+// Date: 2025-01-30
 import React from 'react';
-import '../App.css';  // Import App.css for global styles
+import '../App.css';  
 
 function Services() {
   return (

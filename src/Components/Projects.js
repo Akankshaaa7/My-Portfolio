@@ -1,4 +1,4 @@
-// File: src/pages/projects.js
+// File: src/Components/Projects.js
 // Author: Akanksha Gurram
 // Student ID: 301453510
 // Date: 2025-01-30
@@ -14,7 +14,7 @@ function Projects() {
       {/* Project 1: BBC News Categorization */}
       <div className="project-card">
         <img 
-          src="/assets/images/News%20classification.jpg" 
+          src={require('../assets/News classification.jpg')} 
           alt="BBC News Classification"
           className="project-image"
         />
@@ -27,7 +27,7 @@ function Projects() {
       {/* Project 2: Diabetes Disease Prediction */}
       <div className="project-card">
         <img 
-          src="/assets/images/Diabetics%20prediction.png"  
+          src={require('../assets/Diabetics prediction.png')}  
           alt="Diabetes Prediction"
           className="project-image"
         />
@@ -40,7 +40,7 @@ function Projects() {
       {/* Project 3: Stock Price Prediction */}
       <div className="project-card">
         <img 
-          src="/assets/images/Stock%20prediction.jpg" 
+          src={require('../assets/Stock prediction.jpg')} 
           alt="Stock Price Prediction"
           className="project-image"
         />

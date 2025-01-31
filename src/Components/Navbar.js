@@ -1,4 +1,7 @@
-// src/components/Navbar.js
+// File: src/Components/Navbar.js
+// Author: Akanksha Gurram
+// Student ID: 301453510
+// Date: 2025-01-30
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
@@ -7,7 +10,8 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo">
-        <img src="/assets/images/Logo.jpeg" alt="Logo" />
+        
+        <img src={require('../assets/Logo.jpeg')} alt="Logo" className="navbar-logo" />
       </div>
       <ul className="navbar-links">
         <li><Link to="/">Home</Link></li>

@@ -1,5 +1,9 @@
+// File: src/Components/ContactMe.js
+// Author: Akanksha Gurram
+// Student ID: 301453510
+// Date: 2025-01-30
 import React, { useState } from 'react';
-import '../App.css'; // Ensure global CSS is applied
+import '../App.css';
 
 const ContactMe = () => {
   const [formData, setFormData] = useState({
@@ -10,8 +14,7 @@ const ContactMe = () => {
     message: '',
   });
 
-  const [isSubmitted, setIsSubmitted] = useState(false); // Track submission
-
+  const [isSubmitted, setIsSubmitted] = useState(false); 
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
@@ -20,7 +23,7 @@ const ContactMe = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(formData); 
-    setIsSubmitted(true); // Set form as submitted
+    setIsSubmitted(true);
     setFormData({
       firstName: '',
       lastName: '',
