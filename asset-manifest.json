@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.d03b8394.css",
-    "main.js": "/My-Portfolio/static/js/main.68ecf41c.js",
+    "main.js": "/My-Portfolio/static/js/main.e5576622.js",
     "static/js/488.7fd32178.chunk.js": "/My-Portfolio/static/js/488.7fd32178.chunk.js",
+    "static/media/Diabetics prediction.png": "/My-Portfolio/static/media/Diabetics prediction.aaecc67fe23243f85b46.png",
+    "static/media/News classification.jpg": "/My-Portfolio/static/media/News classification.13d2c8a54dc0777d182c.jpg",
+    "static/media/Stock prediction.jpg": "/My-Portfolio/static/media/Stock prediction.bbf1bdda7b983f6962ee.jpg",
+    "static/media/photo.JPG": "/My-Portfolio/static/media/photo.4fabbdd84ccee17b01a1.JPG",
+    "static/media/Resume-Akanksha-Gurram.pdf": "/My-Portfolio/static/media/Resume-Akanksha-Gurram.8b6f2aaabc412c6aec52.pdf",
     "index.html": "/My-Portfolio/index.html",
     "main.d03b8394.css.map": "/My-Portfolio/static/css/main.d03b8394.css.map",
-    "main.68ecf41c.js.map": "/My-Portfolio/static/js/main.68ecf41c.js.map",
+    "main.e5576622.js.map": "/My-Portfolio/static/js/main.e5576622.js.map",
     "488.7fd32178.chunk.js.map": "/My-Portfolio/static/js/488.7fd32178.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d03b8394.css",
-    "static/js/main.68ecf41c.js"
+    "static/js/main.e5576622.js"
   ]
 }
