@@ -1,0 +1,42 @@
+/* src/Components/AboutMe.css */
+
+/* Container styling */
+.about-container {
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Profile image styling */
+  .profile-photo {
+    border-radius: 50%;
+    border: 3px solid #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the resume download link */
+  a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #007bff;
+    padding: 10px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  a:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .profile-photo {
+      width: 120px;
+      height: 120px;
+    }
+  }
+  
